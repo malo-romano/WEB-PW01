@@ -1,0 +1,84 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#page {
+  margin-left: 25%;
+  width: 50%;
+}
+
+p {
+  margin-top: 0;
+  text-justify: inter-word;
+}
+
+.finalists {
+  padding: 0.3rem;
+  background-color: #eee;
+}
+
+.finalists>h2,
+.finalist {
+  margin: 0.5rem;
+  padding: 0.3rem;
+  font-size: 1.2rem;
+}
+
+.finalist {
+  cursor: pointer;
+  background: white;
+
+}
+
+.finalistContent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+
+.finalist:hover {
+  background-color: darkgray;
+  color: white;
+}
+
+.finalist:active {
+  background-color: red;
+}
+
+.finalist>h3,
+.finalist>p {
+  margin: 0.2rem;
+  font-size: 1rem;
+}
+
+.finalistContent>img {
+  width: 20rem;
+  margin-right: 1rem;
+}
+
+.finalistContent>p {
+  flex: 1;
+  margin-top: 0;
+}
+
+.infoContainer {
+  display: inline-grid;
+  column-gap: 50px;
+  grid-template-areas: 
+    "TEXT1 TEXT1 IMG1"
+    "TEXT1 TEXT1 TEXT2"
+    "TEXT3 IMG2 IMG2";
+}
+
+.text1 { grid-area: TEXT1; }
+.img1 { grid-area: IMG1; }
+.text2 { grid-area: TEXT2; }
+.img2 { grid-area: IMG2; }
+.text3 { grid-area: TEXT3; }
+
+.img1>img, .img2>img {
+
+  max-width: 100%;
+  width: auto;
+
+}
