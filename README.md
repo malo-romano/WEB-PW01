@@ -4,7 +4,7 @@ Vous êtes sur le point de découvrir le site le plus glamour et captivant de to
 
 ## Aperçu du site
 
-Pour une expérience aussi incroyable que la finale de Mister HEIG-VD, rendez-vous sur [Mister HEIG-VD : La finale (Preview)](https://malo-romano.github.io). Préparez-vous à être émerveillé par nos finalistes exceptionnels et leurs histoires hilarantes.
+Pour une expérience aussi incroyable que la finale de Mister HEIG-VD, rendez-vous sur [Mister HEIG-VD : La finale (Preview)]([https://malo-romano.github.io](https://malo-romano.github.io/WEB-PW01/)). Préparez-vous à être émerveillé par nos finalistes exceptionnels et leurs histoires hilarantes.
 
 ## À propos du site
 
