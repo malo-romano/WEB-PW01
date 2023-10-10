@@ -1,10 +1,10 @@
 # Bienvenue sur le site "Mister HEIG-VD : La finale" 🤩
 
-Vous êtes sur le point de découvrir le site le plus glamour et captivant de tous les temps, celui qui célèbre le concours "Mister HEIG-VD" ! 🎩✨
+Vous êtes sur le point de découvrir le site le plus glamour et captivant de tous les temps, celui qui célèbre le concours "Mister HEIG-VD" !
 
 ## Aperçu du site
 
-Pour une expérience aussi incroyable que la finale de Mister HEIG-VD, rendez-vous sur [Mister HEIG-VD : La finale (Preview)](https://malo-romano.github.io/WEB-PW01/). Préparez-vous à être émerveillé par nos finalistes exceptionnels et leurs histoires hilarantes.
+Pour une expérience aussi incroyable que la finale de Mister HEIG-VD, rendez-vous sur [Mister HEIG-VD : La finale (Preview)](https://malo-romano.github.io/WEB-PW01/){:target="_blank"}. Préparez-vous à être émerveillé par nos finalistes exceptionnels et leurs histoires hilarantes.
 
 ## À propos du site
 
